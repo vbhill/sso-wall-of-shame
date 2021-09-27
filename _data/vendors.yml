@@ -391,6 +391,14 @@
   percent_increase: 200%++
   pricing_source: https://www.surveymonkey.com/pricing/details/
   updated_at: 2021-09-06
+  
+  name: System Surveyor
+  url: https://www.systemsurveyor.com
+  base_pricing: $45 per u/m
+  sso_pricing: Contact Us! (over $75 per u/m)
+  percent_increase: 67%++
+  pricing_source: https://systemsurveyor.com/
+  updated_at: 2021-09-27
  
 - name: TestRail Cloud
   url: https://www.gurock.com/testrail/
